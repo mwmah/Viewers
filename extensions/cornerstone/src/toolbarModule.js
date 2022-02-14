@@ -117,6 +117,15 @@ const definitions = [
     },
   },
   {
+    id: 'FreehandRoi',
+    label: 'FreehandROI',
+    icon: 'squiggle-dash',
+    //
+    type: TOOLBAR_BUTTON_TYPES.SET_TOOL_ACTIVE,
+    commandName: 'setToolActive',
+    commandOptions: { toolName: 'FreehandRoi' },
+  },
+  {
     id: 'More',
     label: 'More',
     icon: 'ellipse-circle',

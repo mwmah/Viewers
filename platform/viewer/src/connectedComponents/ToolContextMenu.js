@@ -7,7 +7,7 @@ const toolTypes = [
   'Angle',
   'Bidirectional',
   'Length',
-  'FreehandMouse',
+  'FreehandRoi',
   'EllipticalRoi',
   'CircleRoi',
   'RectangleRoi',
